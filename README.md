@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Derrick-Edward
 - 👀 I’m interested in everything Software & Hardware; more specifically Software Development, Artificial Intelligence, Cybersecurity, Blockchain, IoT
-- 🌱 I’m currently learning DevOps Engineering in Azure
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning DevOps Engineering in Azure DevOps with AWS and Azure.
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/derrick-edward/
 
 <!---
